@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Typewriter</id>
+    <version>1.0.0</version>
+    <authors>Typewriter</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Typewriter.Metadata.Roslyn" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Typewriter.Metadata" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CSharp" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CodeAnalysis.Workspaces.Common" version="3.9.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Development\TypewriterCli\Typewriter\bin\Debug\net5.0\Typewriter.dll" target="lib\net5.0\Typewriter.dll" />
+  </files>
+</package>

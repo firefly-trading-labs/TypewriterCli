@@ -1,0 +1,15 @@
+C:\Development\TypewriterCli\Typewriter.Metadata\bin\Debug\net5.0\Typewriter.Metadata.deps.json
+C:\Development\TypewriterCli\Typewriter.Metadata\bin\Debug\net5.0\Typewriter.Metadata.dll
+C:\Development\TypewriterCli\Typewriter.Metadata\bin\Debug\net5.0\ref\Typewriter.Metadata.dll
+C:\Development\TypewriterCli\Typewriter.Metadata\bin\Debug\net5.0\Typewriter.Metadata.pdb
+C:\Development\TypewriterCli\Typewriter.Metadata\bin\Debug\net5.0\Typewriter.CodeModel.dll
+C:\Development\TypewriterCli\Typewriter.Metadata\bin\Debug\net5.0\Typewriter.CodeModel.pdb
+C:\Development\TypewriterCli\Typewriter.Metadata\obj\Debug\net5.0\Typewriter.Metadata.csprojAssemblyReference.cache
+C:\Development\TypewriterCli\Typewriter.Metadata\obj\Debug\net5.0\Typewriter.Metadata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\TypewriterCli\Typewriter.Metadata\obj\Debug\net5.0\Typewriter.Metadata.AssemblyInfoInputs.cache
+C:\Development\TypewriterCli\Typewriter.Metadata\obj\Debug\net5.0\Typewriter.Metadata.AssemblyInfo.cs
+C:\Development\TypewriterCli\Typewriter.Metadata\obj\Debug\net5.0\Typewriter.Metadata.csproj.CoreCompileInputs.cache
+C:\Development\TypewriterCli\Typewriter.Metadata\obj\Debug\net5.0\Typewriter.Metadata.csproj.CopyComplete
+C:\Development\TypewriterCli\Typewriter.Metadata\obj\Debug\net5.0\Typewriter.Metadata.dll
+C:\Development\TypewriterCli\Typewriter.Metadata\obj\Debug\net5.0\ref\Typewriter.Metadata.dll
+C:\Development\TypewriterCli\Typewriter.Metadata\obj\Debug\net5.0\Typewriter.Metadata.pdb

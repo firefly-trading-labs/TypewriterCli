@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Typewriter.Metadata/1.0.0": {
+        "dependencies": {
+          "Typewriter.CodeModel": "1.0.0"
+        },
+        "runtime": {
+          "Typewriter.Metadata.dll": {}
+        }
+      },
+      "Typewriter.CodeModel/1.0.0": {
+        "runtime": {
+          "Typewriter.CodeModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Typewriter.Metadata/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Typewriter.CodeModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

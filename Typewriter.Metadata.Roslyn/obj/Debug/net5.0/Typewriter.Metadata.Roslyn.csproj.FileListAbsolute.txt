@@ -1,0 +1,17 @@
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\bin\Debug\net5.0\Typewriter.Metadata.Roslyn.deps.json
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\bin\Debug\net5.0\Typewriter.Metadata.Roslyn.dll
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\bin\Debug\net5.0\ref\Typewriter.Metadata.Roslyn.dll
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\bin\Debug\net5.0\Typewriter.Metadata.Roslyn.pdb
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\bin\Debug\net5.0\Typewriter.CodeModel.dll
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\bin\Debug\net5.0\Typewriter.Metadata.dll
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\bin\Debug\net5.0\Typewriter.Metadata.pdb
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\bin\Debug\net5.0\Typewriter.CodeModel.pdb
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\obj\Debug\net5.0\Typewriter.Metadata.Roslyn.csprojAssemblyReference.cache
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\obj\Debug\net5.0\Typewriter.Metadata.Roslyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\obj\Debug\net5.0\Typewriter.Metadata.Roslyn.AssemblyInfoInputs.cache
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\obj\Debug\net5.0\Typewriter.Metadata.Roslyn.AssemblyInfo.cs
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\obj\Debug\net5.0\Typewriter.Metadata.Roslyn.csproj.CoreCompileInputs.cache
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\obj\Debug\net5.0\Typewriter.Metadata.Roslyn.csproj.CopyComplete
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\obj\Debug\net5.0\Typewriter.Metadata.Roslyn.dll
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\obj\Debug\net5.0\ref\Typewriter.Metadata.Roslyn.dll
+C:\Development\TypewriterCli\Typewriter.Metadata.Roslyn\obj\Debug\net5.0\Typewriter.Metadata.Roslyn.pdb

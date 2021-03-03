@@ -1,0 +1,11 @@
+C:\Development\TypewriterCli\Typewriter.CodeModel\bin\Debug\net5.0\Typewriter.CodeModel.deps.json
+C:\Development\TypewriterCli\Typewriter.CodeModel\bin\Debug\net5.0\Typewriter.CodeModel.dll
+C:\Development\TypewriterCli\Typewriter.CodeModel\bin\Debug\net5.0\ref\Typewriter.CodeModel.dll
+C:\Development\TypewriterCli\Typewriter.CodeModel\bin\Debug\net5.0\Typewriter.CodeModel.pdb
+C:\Development\TypewriterCli\Typewriter.CodeModel\obj\Debug\net5.0\Typewriter.CodeModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\TypewriterCli\Typewriter.CodeModel\obj\Debug\net5.0\Typewriter.CodeModel.AssemblyInfoInputs.cache
+C:\Development\TypewriterCli\Typewriter.CodeModel\obj\Debug\net5.0\Typewriter.CodeModel.AssemblyInfo.cs
+C:\Development\TypewriterCli\Typewriter.CodeModel\obj\Debug\net5.0\Typewriter.CodeModel.csproj.CoreCompileInputs.cache
+C:\Development\TypewriterCli\Typewriter.CodeModel\obj\Debug\net5.0\Typewriter.CodeModel.dll
+C:\Development\TypewriterCli\Typewriter.CodeModel\obj\Debug\net5.0\ref\Typewriter.CodeModel.dll
+C:\Development\TypewriterCli\Typewriter.CodeModel\obj\Debug\net5.0\Typewriter.CodeModel.pdb
